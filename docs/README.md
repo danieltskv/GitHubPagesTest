@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages 2
+## About SwipeSpeak
 
-You can use the [editor on GitHub](https://github.com/danieltskv/GitHubPagesTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+SwipeSpeak is an app that allows people to communicate with eye gestures.
+Serving as a communication board (similar to an E-Tran Board), SwipeSpeak displays a keyboard which allows a communication partner to construct words and sentences.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A communication partner reads eye gestures of a speaker and swipes in the corresponding direction on the app's screen. SwipeSpeak will then translate those swipes into words and sentences. 
 
-### Markdown
+SwipeSpeak also implements a predictive text engine to find all possible words that could be created with the letters in a groups indicated by a gesture sequence. To enter one character, a speaker will move his eyes in the direction associated with that letter’s group, and the communication partner will swipes in the corresponding direction on the app's screen.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+SwipeSpeak’s additional features include:
+- Multiple keyboard layouts
+- Word prediction with the ability to add words
+- Ability to view sentence history
+- iCloud sync for added words, sentence history and settings
+- Voice output and vibration
+- Speech output configuration (voice, rate and volume)
 
-# Header 1
-## Header 2
-### Header 3
+SwipeSpeak can be downloaded by clicking the [following link](s).
 
-- Bulleted
-- List
+# Video Tutorials
 
-1. Numbered
-2. List
+## Intro
 
-**Bold** and _Italic_ and `Code` text
+<video width="400" controls>
+  <source src="http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
 
-[Link](url) and ![Image](src)
-```
+## Description
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## App Usage
+[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4 "Audi R8")
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danieltskv/GitHubPagesTest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you for using SwipeSpeak. 
+Please feel free to contact us at: swipespeak@teamgleason.org
